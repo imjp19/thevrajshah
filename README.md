@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Vraj Shah ⚡️'s DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/thevrajshah)
-
 <!--
 **thevrajshah/thevrajshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
