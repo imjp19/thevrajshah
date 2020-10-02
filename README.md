@@ -20,6 +20,7 @@ I love designing in general which justifies my love for CSS. I also trying to ge
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=thevrajshah&count_private=true&show_icons=truehow_icons=true" /> <br>
 Some Advance Stats about my GitHub Profile - https://gitstats.me/thevrajshah<br>
 </details>
+
 - 🔭 I’m currently working in React.js 
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with Next.js
