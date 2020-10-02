@@ -1,4 +1,4 @@
-### 👋 Hello there! I'm Vraj, a FullStack Web Developer in MERN Stack. I love designing in general which justifies my love for CSS. I also trying to get into Mobile Development with Flutter is my first tool.
+#### 👋 Hello there! I'm Vraj, a FullStack Web Developer in MERN Stack. I love designing in general which justifies my love for CSS. I also trying to get into Mobile Development with Flutter is my first tool.
 <details>
   <summary><b>GitHub Stats</b></summary>
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=thevrajshah&count_private=true&show_icons=truehow_icons=true" /> <br>
